@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Максим Смирнов](https://up.htmlacademy.ru/adaptive/20/user/854541).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Аверин](https://up.htmlacademy.ru/adaptive/20/user/1061531).
 
 ---
 
